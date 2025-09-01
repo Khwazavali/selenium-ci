@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-09-01T10:51:35 CDT" name="Default suite" finished-at="2025-09-01T10:51:37 CDT" duration-ms="2183">
+  <suite started-at="2025-09-01T12:04:45 CDT" name="Default suite" finished-at="2025-09-01T12:04:48 CDT" duration-ms="2620">
     <groups>
     </groups>
-    <test started-at="2025-09-01T10:51:35 CDT" name="Default test" finished-at="2025-09-01T10:51:37 CDT" duration-ms="2183">
+    <test started-at="2025-09-01T12:04:45 CDT" name="Default test" finished-at="2025-09-01T12:04:48 CDT" duration-ms="2620">
       <class name="com.practice.tests.GooglTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.practice.tests.GooglTest@2d3379b4]" started-at="2025-09-01T10:51:35 CDT" name="setup" finished-at="2025-09-01T10:51:36 CDT" duration-ms="1418" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.practice.tests.GooglTest@2d3379b4]" started-at="2025-09-01T12:04:45 CDT" name="setup" finished-at="2025-09-01T12:04:47 CDT" duration-ms="1424" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="checkGoogleTitle()[pri:0, instance:com.practice.tests.GooglTest@2d3379b4]" started-at="2025-09-01T10:51:36 CDT" name="checkGoogleTitle" finished-at="2025-09-01T10:51:37 CDT" duration-ms="588" status="PASS">
+        <test-method signature="searchInWikipedia()[pri:0, instance:com.practice.tests.GooglTest@2d3379b4]" started-at="2025-09-01T12:04:47 CDT" name="searchInWikipedia" finished-at="2025-09-01T12:04:48 CDT" duration-ms="956" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- checkGoogleTitle -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.practice.tests.GooglTest@2d3379b4]" started-at="2025-09-01T10:51:37 CDT" name="tearDown" finished-at="2025-09-01T10:51:37 CDT" duration-ms="143" status="PASS">
+        </test-method> <!-- searchInWikipedia -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.practice.tests.GooglTest@2d3379b4]" started-at="2025-09-01T12:04:48 CDT" name="tearDown" finished-at="2025-09-01T12:04:48 CDT" duration-ms="210" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
